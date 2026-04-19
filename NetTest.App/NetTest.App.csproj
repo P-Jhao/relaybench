@@ -12,6 +12,7 @@
     <UseWPF>true</UseWPF>
     <UseAppHost>true</UseAppHost>
     <SelfContained>false</SelfContained>
+    <ApplicationIcon>Resources\relaybench.ico</ApplicationIcon>
   </PropertyGroup>
 
 </Project>
