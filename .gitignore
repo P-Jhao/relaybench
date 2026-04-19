@@ -26,6 +26,7 @@ data/
 # Logs / temp files
 *.log
 tmp_utf8_test.txt
+.relaybench-startup.lock
 
 # Node / pnpm
 node_modules/
