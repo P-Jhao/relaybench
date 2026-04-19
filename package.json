@@ -1,0 +1,9 @@
+{
+  "name": "relaybench-runner",
+  "private": true,
+  "scripts": {
+    "dev": "dotnet run --project ./NetTest.App/NetTest.App.csproj -c Debug",
+    "build": "dotnet build ./NetTest.App/NetTest.App.csproj -c Debug",
+    "watch": "dotnet watch --project ./NetTest.App/NetTest.App.csproj run"
+  }
+}
