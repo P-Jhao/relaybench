@@ -3,6 +3,7 @@
 **/obj/
 dist/
 release/
+/.dotnet/
 
 # Local development artifacts
 .artifacts/
